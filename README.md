@@ -1,2 +1,2 @@
-# Repo-Name
+# Repo
 study
